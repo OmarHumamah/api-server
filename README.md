@@ -2,17 +2,18 @@
 
 - description:
 
-    - I did a simple crud api server that that saves data on postgres db, and tested all routes 
+    - I did a simple crud api server that that saves data on postgres db, and tested all routes. And I add a library(Collection) for the CRUD function. `read()` `create()` `update()` `delete()`
 - features:
 
     - GET
     - POST
     - PUT
     - DELETE
+    - Collection class
 
 - HEROKU: 
-    - https://omars-basic-api-server.herokuapp.com/food
-    - https://omars-basic-api-server.herokuapp.com/clothes
+    - https://omars-api-server.herokuapp.com/food
+    - https://omars-api-server.herokuapp.com/clothes
 
 - test:
 
@@ -20,4 +21,4 @@
     - Lint Tests: `npm run dev`
 
  - UML 
-    ![img](ss.png)   
+    ![img](ee.png)   
